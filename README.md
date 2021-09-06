@@ -3,7 +3,7 @@ Basic Inventory Management System using python and json.
 
 This is a basic menu driven system that lets the user to manage their inventory.
 
-"records.json" is where all the records are stored.
+"inventory_records.json" is where all the records are stored.
 
 The "Inventory_Management.ipynb" file allows the user to perform various functionalities like:
 
