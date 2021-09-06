@@ -24,3 +24,4 @@ The "Sales.ipynb" file lets the user to:
 
 All the details of the sale gets updated in sales_records.json 
 
+Please note that all the valid id for the data stored in the current json files for any product is a three- digit number that starts from 101. 
